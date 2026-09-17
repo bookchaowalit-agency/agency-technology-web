@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "mode": "persuade",
+  "world": "Systems blueprint",
+  "artifact": "blueprint",
+  "tokens": {
+    "color": {
+      "bg": "#dfeef5",
+      "ink": "#0b2635",
+      "muted": "#466676",
+      "line": "#9dbdce",
+      "panel": "#c9e0eb",
+      "accent": "#1759c8",
+      "inverse": "#0d2a3a",
+      "inverseInk": "#edf8fb"
+    },
+    "typography": {
+      "display": "Noto Serif Thai",
+      "body": "Noto Sans Thai",
+      "utility": "system monospace"
+    },
+    "spacing": {
+      "page": "clamp(18px, 5vw, 76px)",
+      "section": "clamp(67px, 10vw, 144px)"
+    },
+    "shape": {
+      "radius": "world-specific",
+      "elevation": "one deliberate surface system"
+    }
+  }
+}
