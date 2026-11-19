@@ -22,6 +22,7 @@ export const site = {
   "status": "target",
   "design": {
     "projectName": "solo-agency-technology",
+    "productionUrl": "https://solo-agency-technology.vercel.app",
     "archetype": "blueprint",
     "motif": "blueprint",
     "world": "Systems blueprint",
